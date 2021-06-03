@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Brightsites;
+    src: url('./BlackCasper.ttf');
+  }
+
+.Navbar {
+    width: auto;
+    height: 100%;
+    
+    align-items: center;
+}
+h1 {
+    font-family: Brightsites;
+}
+

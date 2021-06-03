@@ -1,0 +1,19 @@
+form {
+    text-align: center;
+}
+
+.btn-bright {
+    background-color: black;
+    color: white;
+    margin: .5rem;
+}
+
+.btn-bright:hover {
+    background-color: lightblue;
+    color:black;
+}
+
+.red {
+    background-color: red;
+   
+}
